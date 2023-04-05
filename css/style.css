@@ -1,0 +1,45 @@
+*{
+margin:0px;
+border:0px;
+box-sizing:border-box;
+}
+.bg{
+background: url('../images/testimonials-bg.jpg');
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+
+}
+.container {
+text-align:center;
+color:white;
+}
+.sara_text{
+    padding: 20px 0px;
+}
+.img{
+background-color: #000000a8;
+padding: 20px 0px;
+}
+.img > img{
+border-radius: 50%;
+border:5px solid gray;
+
+width: 150px;
+height: 150px;
+}
+.star_icon_color{
+color:yellow;
+    padding: 15px 0px;
+}
+.icon_color{
+color:red;
+}
+
+.icon_round{
+padding: 16px;
+}
+.para{
+padding: 0px 348px;
+
+}
